@@ -1,6 +1,6 @@
 # Skills
 
-Personal Codex skills repository.
+Personal Coding skills repository.
 
 This repository stores reusable skills under the `skills/` directory. Each skill
 is self-contained and follows this layout:
